@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run Project1",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/project1/main.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}/project1",
+            "environment": [],
+            "console": "integratedTerminal"
+        }
+    ]
+}
